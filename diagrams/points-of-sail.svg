@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 520" width="500" height="520" style="font-family:system-ui,-apple-system,Helvetica,Arial,sans-serif;">
+  <rect width="500" height="520" fill="#f8fbfd"/>
+
+  <path d="M 250,250 L 119,119 A 185,185 0 0 1 381,119 Z" fill="#ffcccc" opacity="0.75"/>
+  <path d="M 250,250 L 65,250 A 185,185 0 0 1 119,119 Z" fill="#d4f0d4" opacity="0.75"/>
+  <path d="M 250,250 L 435,250 A 185,185 0 0 0 381,119 Z" fill="#d4f0d4" opacity="0.75"/>
+  <path d="M 250,250 L 65,250 A 185,185 0 0 0 119,381 Z" fill="#d4e8f0" opacity="0.75"/>
+  <path d="M 250,250 L 435,250 A 185,185 0 0 1 381,381 Z" fill="#d4e8f0" opacity="0.75"/>
+  <path d="M 250,250 L 119,381 A 185,185 0 0 0 381,381 Z" fill="#e8d4f0" opacity="0.75"/>
+
+  <circle cx="250" cy="250" r="185" fill="none" stroke="#333" stroke-width="1.5"/>
+
+  <g stroke="#2980b9" stroke-width="4" fill="none">
+    <line x1="250" y1="25" x2="250" y2="70"/>
+    <path d="M 240,60 L 250,75 L 260,60"/>
+  </g>
+  <text x="262" y="40" font-size="14" font-weight="bold" fill="#2980b9">WIND</text>
+
+  <g transform="translate(250,250)">
+    <path d="M 0,-20 Q 11,-15 13,2 L 11,22 L -11,22 L -13,2 Q -11,-15 0,-20 Z" fill="#2c3e50" stroke="#000"/>
+    <line x1="0" y1="-18" x2="0" y2="18" stroke="#fff" stroke-width="1"/>
+  </g>
+
+  <text x="198" y="160" font-size="12" font-weight="bold" fill="#c0392b">NO-GO ZONE</text>
+  <text x="170" y="176" font-size="10" fill="#c0392b">(head-to-wind, ~45° each side)</text>
+
+  <text x="55" y="130" font-size="11" font-weight="bold" fill="#2d6a2d">Close-hauled</text>
+  <text x="70" y="145" font-size="9" fill="#2d6a2d">(port tack)</text>
+  <text x="340" y="130" font-size="11" font-weight="bold" fill="#2d6a2d">Close-hauled</text>
+  <text x="345" y="145" font-size="9" fill="#2d6a2d">(stbd tack)</text>
+
+  <text x="25" y="255" font-size="11" font-weight="bold" fill="#1e5a73">Beam reach →</text>
+  <text x="385" y="255" font-size="11" font-weight="bold" fill="#1e5a73">← Beam reach</text>
+  <text x="18" y="270" font-size="9" fill="#1e5a73">(fastest + comfy)</text>
+
+  <text x="55" y="390" font-size="11" font-weight="bold" fill="#2b5a8a">Broad reach</text>
+  <text x="340" y="390" font-size="11" font-weight="bold" fill="#2b5a8a">Broad reach</text>
+
+  <text x="180" y="470" font-size="12" font-weight="bold" fill="#6a2a80">RUN (dead downwind)</text>
+  <text x="148" y="485" font-size="10" fill="#6a2a80">watch for accidental gybe — rig preventer</text>
+
+  <g font-size="9" fill="#555" font-weight="bold">
+    <text x="245" y="85">0°</text>
+    <text x="240" y="428">180°</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+flowchart TD
+    A[Open engine compartment] --> B{Oil dipstick<br/>between marks?}
+    B -->|Low| C[Top up with 15W-40]
+    B -->|OK| D{Coolant level<br/>in header tank?}
+    D -->|Low| E[Top up — check for leaks]
+    D -->|OK| F{Raw water strainer<br/>clear?}
+    F -->|Dirty| G[Unscrew lid, clean basket]
+    F -->|Clear| H{Belt tension<br/>& wear OK?}
+    H -->|Loose/frayed| I[Report to charter base]
+    H -->|OK| J[Seacock open?<br/>Check raw-water intake]
+    J --> K[Start engine]
+    K --> L{Water from<br/>exhaust within<br/>20 seconds?}
+    L -->|No| M[STOP ENGINE<br/>No cooling = damage in minutes]
+    L -->|Yes| N[Let idle 2 min, then OK to use]

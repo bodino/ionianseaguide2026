@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="720" height="520" style="font-family:system-ui,-apple-system,Helvetica,Arial,sans-serif;">
+  <defs>
+    <marker id="mmarrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0,0 L 10,5 L 0,10 z" fill="#27ae60"/>
+    </marker>
+  </defs>
+
+  <rect width="720" height="470" fill="#b8d4e3"/>
+  <rect y="470" width="720" height="50" fill="#8b7355"/>
+  <text x="20" y="500" font-size="14" font-weight="bold" fill="#fff">◄── CONCRETE QUAY ──►</text>
+  <text x="500" y="500" font-size="11" fill="#fff">(bollards ●)</text>
+
+  <g stroke="#666" stroke-dasharray="4,3" fill="none">
+    <line x1="100" y1="400" x2="55" y2="115"/>
+    <line x1="200" y1="400" x2="240" y2="115"/>
+    <line x1="470" y1="400" x2="430" y2="115"/>
+    <line x1="580" y1="400" x2="620" y2="115"/>
+  </g>
+  <g fill="#333">
+    <circle cx="55" cy="115" r="4"/>
+    <circle cx="240" cy="115" r="4"/>
+    <circle cx="430" cy="115" r="4"/>
+    <circle cx="620" cy="115" r="4"/>
+  </g>
+  <g fill="#95a5a6" stroke="#333" stroke-width="1">
+    <path d="M 100,400 Q 80,412 80,430 L 80,455 Q 80,463 100,463 L 120,463 Q 120,463 120,455 L 120,430 Q 120,412 100,400 Z"/>
+    <path d="M 200,400 Q 180,412 180,430 L 180,455 Q 180,463 200,463 L 220,463 Q 220,463 220,455 L 220,430 Q 220,412 200,400 Z"/>
+    <path d="M 470,400 Q 450,412 450,430 L 450,455 Q 450,463 470,463 L 490,463 Q 490,463 490,455 L 490,430 Q 490,412 470,400 Z"/>
+    <path d="M 580,400 Q 560,412 560,430 L 560,455 Q 560,463 580,463 L 600,463 Q 600,463 600,455 L 600,430 Q 600,412 580,400 Z"/>
+  </g>
+  <g font-size="10" fill="#fff" font-weight="bold">
+    <text x="85" y="438">boat</text>
+    <text x="185" y="438">boat</text>
+    <text x="455" y="438">boat</text>
+    <text x="565" y="438">boat</text>
+  </g>
+
+  <g>
+    <path d="M 320,380 Q 295,395 295,420 L 295,455 Q 295,465 320,465 L 365,465 Q 390,465 390,455 L 390,420 Q 390,395 365,380 Z" fill="#e74c3c" stroke="#7a1a1a" stroke-width="2.5"/>
+    <text x="325" y="428" font-size="13" font-weight="bold" fill="#fff">YOU</text>
+    <line x1="342" y1="380" x2="342" y2="105" stroke="#c0392b" stroke-width="3"/>
+    <path d="M 337,100 L 342,92 L 347,100 Z M 342,95 L 342,78 M 330,80 Q 342,88 354,80" stroke="#c0392b" stroke-width="2.5" fill="#c0392b"/>
+    <line x1="302" y1="465" x2="408" y2="470" stroke="#222" stroke-width="2"/>
+    <line x1="383" y1="465" x2="278" y2="470" stroke="#222" stroke-width="2"/>
+    <circle cx="278" cy="470" r="4" fill="#333"/>
+    <circle cx="408" cy="470" r="4" fill="#333"/>
+  </g>
+
+  <line x1="342" y1="55" x2="342" y2="370" stroke="#27ae60" stroke-width="3" stroke-dasharray="10,5" marker-end="url(#mmarrow)"/>
+
+  <g>
+    <rect x="425" y="75" width="275" height="55" fill="#fff" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+    <text x="435" y="95" font-size="13" font-weight="bold" fill="#27ae60">1. STOP — drop anchor here</text>
+    <text x="435" y="112" font-size="11" fill="#333">4–5 boat-lengths off quay,</text>
+    <text x="435" y="125" font-size="11" fill="#333">perpendicular, stern-to your slot.</text>
+
+    <rect x="425" y="210" width="275" height="55" fill="#fff" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+    <text x="435" y="230" font-size="13" font-weight="bold" fill="#27ae60">2. REVERSE straight back</text>
+    <text x="435" y="247" font-size="11" fill="#333">Pay chain at 4–5× water depth.</text>
+    <text x="435" y="260" font-size="11" fill="#333">Correct stern-walk with bow thruster.</text>
+
+    <rect x="425" y="340" width="275" height="55" fill="#fff" stroke="#27ae60" stroke-width="1.5" rx="4"/>
+    <text x="435" y="360" font-size="13" font-weight="bold" fill="#27ae60">3. STOP 1–2 m off quay</text>
+    <text x="435" y="377" font-size="11" fill="#333">Crew STEPS off (never jump) with 2</text>
+    <text x="435" y="390" font-size="11" fill="#333">stern lines. Cross to far bollards.</text>
+  </g>
+
+  <g transform="translate(30,35)" stroke="#2980b9" fill="none">
+    <text x="0" y="-5" font-size="13" font-weight="bold" fill="#2980b9">WIND / CURRENT</text>
+    <line x1="50" y1="5" x2="50" y2="50" stroke-width="3"/>
+    <path d="M 42,42 L 50,55 L 58,42" stroke-width="3"/>
+  </g>
+
+  <text x="30" y="155" font-size="11" fill="#333" font-weight="bold">Scope ≈ 4–5 × depth</text>
+  <text x="30" y="170" font-size="10" fill="#555">(6 m depth → 25–30 m chain)</text>
+</svg>

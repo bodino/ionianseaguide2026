@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 820" width="500" height="820" style="font-family:system-ui,-apple-system,Helvetica,Arial,sans-serif;">
+  <rect width="500" height="820" fill="#e8f1f5"/>
+  <text x="220" y="22" font-size="15" font-weight="bold" fill="#2c3e50">↑ BOW</text>
+  <text x="210" y="812" font-size="15" font-weight="bold" fill="#2c3e50">STERN ↓</text>
+  <text x="10" y="400" font-size="12" font-weight="bold" fill="#c0392b">PORT (red)</text>
+  <text x="405" y="400" font-size="12" font-weight="bold" fill="#27ae60">STBD (green)</text>
+
+  <path d="M 250,35 C 180,65 130,185 120,305 L 110,505 L 120,705 C 130,740 180,770 250,780 C 320,770 370,740 380,705 L 390,505 L 380,305 C 370,185 320,65 250,35 Z" fill="#f5f1e8" stroke="#2c3e50" stroke-width="2.5"/>
+  <path d="M 250,65 C 200,90 160,195 155,315 L 148,500 L 155,680 C 160,710 200,735 250,740 C 300,735 340,710 345,680 L 352,500 L 345,315 C 340,195 300,90 250,65 Z" fill="#e8dcc0" stroke="#8b7355" stroke-width="1" opacity="0.7"/>
+
+  <rect x="240" y="70" width="20" height="22" fill="#555" rx="2"/>
+  <circle cx="250" cy="105" r="10" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <text x="265" y="80" font-size="11" fill="#333">anchor locker</text>
+  <text x="265" y="108" font-size="11" fill="#333">windlass (electric)</text>
+
+  <rect x="230" y="140" width="40" height="28" fill="#b8d4e3" stroke="#2c3e50" stroke-width="1"/>
+  <text x="275" y="158" font-size="11" fill="#333">fwd cabin hatch</text>
+
+  <circle cx="250" cy="245" r="15" fill="#333" stroke="#000" stroke-width="2"/>
+  <text x="275" y="240" font-size="12" font-weight="bold" fill="#333">MAST</text>
+  <text x="275" y="254" font-size="10" fill="#555">in-mast furling main</text>
+
+  <line x1="250" y1="245" x2="148" y2="290" stroke="#666" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="250" y1="245" x2="352" y2="290" stroke="#666" stroke-width="1" stroke-dasharray="3,2"/>
+  <text x="95" y="300" font-size="10" fill="#555">port shroud</text>
+  <text x="355" y="300" font-size="10" fill="#555">stbd shroud</text>
+
+  <rect x="200" y="295" width="100" height="130" fill="#d5c7a3" stroke="#8b7355" stroke-width="1"/>
+  <text x="210" y="315" font-size="10" fill="#333">coachroof</text>
+  <text x="210" y="329" font-size="10" fill="#333">hatches + dorades</text>
+  <text x="210" y="343" font-size="10" fill="#333">solar panel</text>
+
+  <rect x="178" y="417" width="38" height="12" fill="#c0392b" stroke="#333"/>
+  <rect x="285" y="417" width="38" height="12" fill="#c0392b" stroke="#333"/>
+  <text x="122" y="427" font-size="10" fill="#333">clutches ↑</text>
+  <text x="330" y="427" font-size="10" fill="#333">↑ clutches</text>
+  <text x="100" y="440" font-size="9" fill="#555">(halyards, reef lines,</text>
+  <text x="100" y="452" font-size="9" fill="#555">furlers, vang)</text>
+
+  <circle cx="195" cy="470" r="8" fill="#888" stroke="#222"/>
+  <circle cx="305" cy="470" r="8" fill="#888" stroke="#222"/>
+  <text x="35" y="473" font-size="10" fill="#333">secondary winch</text>
+  <text x="325" y="473" font-size="10" fill="#333">secondary winch</text>
+
+  <rect x="220" y="440" width="60" height="28" fill="#6e8ca0" stroke="#2c3e50"/>
+  <text x="228" y="458" font-size="10" fill="#fff">companionway</text>
+
+  <rect x="175" y="485" width="150" height="200" fill="#a8b5c1" stroke="#34495e" stroke-width="1.5" rx="6"/>
+  <text x="218" y="503" font-size="11" font-weight="bold" fill="#fff">COCKPIT</text>
+
+  <rect x="215" y="520" width="70" height="90" fill="#8b7355" stroke="#5a4a33"/>
+  <text x="225" y="555" font-size="10" fill="#fff">cockpit</text>
+  <text x="229" y="570" font-size="10" fill="#fff">table</text>
+
+  <circle cx="192" cy="600" r="12" fill="#ccc" stroke="#222" stroke-width="1.5"/>
+  <circle cx="308" cy="600" r="12" fill="#ccc" stroke="#222" stroke-width="1.5"/>
+  <text x="30" y="604" font-size="10" fill="#333">primary winch</text>
+  <text x="30" y="616" font-size="9" fill="#555">(genoa sheet)</text>
+  <text x="327" y="604" font-size="10" fill="#333">primary winch</text>
+  <text x="327" y="616" font-size="9" fill="#555">(genoa sheet)</text>
+
+  <line x1="155" y1="520" x2="155" y2="640" stroke="#444" stroke-width="3"/>
+  <line x1="345" y1="520" x2="345" y2="640" stroke="#444" stroke-width="3"/>
+  <text x="50" y="530" font-size="10" fill="#333">genoa track →</text>
+  <text x="355" y="530" font-size="10" fill="#333">← genoa track</text>
+
+  <circle cx="215" cy="660" r="17" fill="none" stroke="#2c3e50" stroke-width="2.5"/>
+  <circle cx="215" cy="660" r="4" fill="#2c3e50"/>
+  <circle cx="285" cy="660" r="17" fill="none" stroke="#2c3e50" stroke-width="2.5"/>
+  <circle cx="285" cy="660" r="4" fill="#2c3e50"/>
+  <text x="193" y="695" font-size="10" fill="#333">port helm</text>
+  <text x="261" y="695" font-size="10" fill="#333">stbd helm</text>
+  <text x="170" y="708" font-size="9" fill="#555">(plotter + engine controls at each)</text>
+
+  <rect x="150" y="685" width="8" height="14" fill="#333"/>
+  <rect x="342" y="685" width="8" height="14" fill="#333"/>
+  <text x="105" y="696" font-size="9" fill="#333">aft cleat</text>
+  <text x="355" y="696" font-size="9" fill="#333">aft cleat</text>
+
+  <rect x="170" y="710" width="160" height="48" fill="#7f8c8d" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="188" y="740" font-size="11" fill="#fff">Swim platform (folds down)</text>
+
+  <g transform="translate(445,770)">
+    <circle r="24" fill="#fff" stroke="#333" stroke-width="1"/>
+    <path d="M 0,-17 L 5,2 L 0,-4 L -5,2 Z" fill="#c0392b"/>
+    <text x="-4" y="-20" font-size="11" font-weight="bold" fill="#333">N</text>
+    <text x="-20" y="22" font-size="8" fill="#555">(bow-up view)</text>
+  </g>
+</svg>

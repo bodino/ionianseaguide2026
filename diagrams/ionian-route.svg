@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 820" width="700" height="820" style="font-family:system-ui,-apple-system,Helvetica,Arial,sans-serif;">
+  <rect width="700" height="820" fill="#b8d4e3"/>
+
+  <path d="M 560,0 L 700,0 L 700,820 L 585,820 L 545,720 L 520,620 L 510,520 L 515,410 L 508,310 L 528,210 L 560,100 Z" fill="#c8b789" stroke="#7a6b3a" stroke-width="1.5"/>
+  <text x="605" y="300" font-size="15" font-weight="bold" fill="#5a4e2a">MAINLAND</text>
+  <text x="615" y="318" font-size="12" fill="#5a4e2a">GREECE</text>
+  <text x="595" y="400" font-size="10" fill="#5a4e2a">(Epirus /</text>
+  <text x="595" y="413" font-size="10" fill="#5a4e2a">Akarnania)</text>
+  <text x="560" y="130" font-size="10" fill="#5a4e2a">• Preveza</text>
+  <text x="567" y="145" font-size="9" fill="#5a4e2a">(airport)</text>
+  <text x="555" y="175" font-size="9" fill="#5a4e2a">• Vonitsa</text>
+  <text x="555" y="220" font-size="9" fill="#5a4e2a">Amvrakikos Gulf →</text>
+
+  <path d="M 400,85 L 495,95 L 515,190 L 508,285 L 488,355 L 432,385 L 395,365 L 380,305 L 375,205 L 385,130 Z" fill="#d9e6b3" stroke="#4a6b2a" stroke-width="1.5"/>
+  <text x="411" y="210" font-size="16" font-weight="bold" fill="#2d4016">LEFKADA</text>
+  <text x="440" y="345" font-size="9" fill="#2d4016">• Nidri</text>
+  <text x="463" y="372" font-size="9" fill="#2d4016">• Sivota</text>
+
+  <path d="M 495,95 L 515,100 L 525,140 L 515,190" fill="#7ba8c4" stroke="#4a6b2a"/>
+  <text x="520" y="112" font-size="8" fill="#2d4016">canal</text>
+  <text x="520" y="122" font-size="8" fill="#2d4016">(bridge)</text>
+
+  <circle cx="490" cy="145" r="10" fill="#e74c3c" stroke="#fff" stroke-width="2.5"/>
+  <text x="485" y="149" font-size="11" font-weight="bold" fill="#fff">⚓</text>
+  <text x="505" y="145" font-size="12" font-weight="bold" fill="#c0392b">BASE</text>
+  <text x="505" y="158" font-size="9" fill="#c0392b">Lefkada Marina</text>
+
+  <ellipse cx="488" cy="420" rx="38" ry="24" fill="#d9e6b3" stroke="#4a6b2a" stroke-width="1.2"/>
+  <text x="458" y="418" font-size="11" font-weight="bold" fill="#2d4016">Meganisi</text>
+  <text x="435" y="432" font-size="8" fill="#2d4016">Spartohori · Vathi · Abelike</text>
+
+  <ellipse cx="542" cy="470" rx="26" ry="18" fill="#d9e6b3" stroke="#4a6b2a" stroke-width="1.2"/>
+  <text x="518" y="475" font-size="11" font-weight="bold" fill="#2d4016">Kalamos</text>
+
+  <ellipse cx="510" cy="528" rx="13" ry="22" fill="#d9e6b3" stroke="#4a6b2a" stroke-width="1.2"/>
+  <text x="486" y="568" font-size="10" font-weight="bold" fill="#2d4016">Kastos</text>
+
+  <path d="M 332,445 L 380,425 L 402,490 L 395,570 L 378,615 L 350,625 L 328,585 L 325,510 Z" fill="#d9e6b3" stroke="#4a6b2a" stroke-width="1.5"/>
+  <text x="336" y="510" font-size="13" font-weight="bold" fill="#2d4016">ITHACA</text>
+  <text x="335" y="540" font-size="9" fill="#2d4016">• Frikes</text>
+  <text x="335" y="553" font-size="9" fill="#2d4016">• Kioni</text>
+  <text x="340" y="600" font-size="9" fill="#2d4016">• Vathi</text>
+
+  <path d="M 135,495 L 285,475 L 320,555 L 310,680 L 250,740 L 155,750 L 102,680 L 92,580 Z" fill="#d9e6b3" stroke="#4a6b2a" stroke-width="1.5"/>
+  <text x="170" y="600" font-size="16" font-weight="bold" fill="#2d4016">KEFALONIA</text>
+  <text x="265" y="518" font-size="9" fill="#2d4016">• Fiskardo</text>
+  <text x="180" y="655" font-size="9" fill="#2d4016">• Sami</text>
+  <text x="150" y="720" font-size="9" fill="#2d4016">• Argostoli</text>
+
+  <ellipse cx="280" cy="95" rx="16" ry="28" fill="#d9e6b3" stroke="#4a6b2a" stroke-width="1.2"/>
+  <text x="250" y="100" font-size="10" font-weight="bold" fill="#2d4016">Paxos</text>
+
+  <ellipse cx="285" cy="145" rx="8" ry="10" fill="#d9e6b3" stroke="#4a6b2a"/>
+  <text x="235" y="162" font-size="8" fill="#2d4016">Antipaxos</text>
+
+  <text x="90" y="810" font-size="10" font-style="italic" fill="#2d4016">↓ Zakynthos (~30 nm)</text>
+  <text x="230" y="25" font-size="10" font-style="italic" fill="#2d4016">↑ Corfu (~50 nm)</text>
+
+  <g stroke="#c0392b" stroke-width="2.5" fill="none" stroke-dasharray="7,4">
+    <path d="M 490,155 Q 495,285 487,395"/>
+    <path d="M 495,430 Q 525,455 530,505"/>
+    <path d="M 510,545 Q 455,585 385,602"/>
+    <path d="M 365,600 Q 305,555 275,515"/>
+    <path d="M 278,515 Q 312,490 335,530"/>
+    <path d="M 340,535 Q 405,400 485,160"/>
+  </g>
+
+  <g font-size="11" font-weight="bold" fill="#fff">
+    <circle cx="487" cy="395" r="11" fill="#c0392b"/><text x="482" y="399">1</text>
+    <circle cx="528" cy="510" r="11" fill="#c0392b"/><text x="524" y="514">2</text>
+    <circle cx="375" cy="600" r="11" fill="#c0392b"/><text x="371" y="604">3</text>
+    <circle cx="272" cy="512" r="11" fill="#c0392b"/><text x="268" y="516">4</text>
+    <circle cx="337" cy="535" r="11" fill="#c0392b"/><text x="333" y="539">5</text>
+    <circle cx="490" cy="170" r="11" fill="#c0392b"/><text x="486" y="174">6</text>
+  </g>
+
+  <g transform="translate(25,30)">
+    <rect width="210" height="95" fill="#fff" stroke="#333" opacity="0.95" rx="4"/>
+    <text x="10" y="22" font-size="13" font-weight="bold" fill="#333">7-day route · Apr 19–24</text>
+    <circle cx="22" cy="45" r="8" fill="#c0392b"/>
+    <text x="18" y="49" font-size="10" font-weight="bold" fill="#fff">N</text>
+    <text x="38" y="49" font-size="11" fill="#333">day N evening port</text>
+    <line x1="14" y1="68" x2="42" y2="68" stroke="#c0392b" stroke-width="2.5" stroke-dasharray="5,3"/>
+    <text x="48" y="72" font-size="11" fill="#333">day passage</text>
+    <circle cx="22" cy="86" r="8" fill="#e74c3c" stroke="#fff" stroke-width="2"/>
+    <text x="38" y="90" font-size="11" fill="#333">charter base (Lefkada)</text>
+  </g>
+
+  <g transform="translate(45,700)">
+    <circle r="24" fill="#fff" stroke="#333"/>
+    <path d="M 0,-18 L 5,2 L 0,-4 L -5,2 Z" fill="#c0392b"/>
+    <text x="-4" y="-22" font-size="11" font-weight="bold">N</text>
+  </g>
+  <g transform="translate(20,760)">
+    <line x1="0" y1="0" x2="100" y2="0" stroke="#333" stroke-width="2.5"/>
+    <line x1="0" y1="-5" x2="0" y2="5" stroke="#333" stroke-width="2.5"/>
+    <line x1="50" y1="-4" x2="50" y2="4" stroke="#333" stroke-width="1.5"/>
+    <line x1="100" y1="-5" x2="100" y2="5" stroke="#333" stroke-width="2.5"/>
+    <text x="0" y="20" font-size="10" fill="#333">0</text>
+    <text x="43" y="20" font-size="10" fill="#333">5</text>
+    <text x="88" y="20" font-size="10" fill="#333">10 nm</text>
+  </g>
+</svg>

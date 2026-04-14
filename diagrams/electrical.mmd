@@ -1,0 +1,47 @@
+flowchart TD
+    SP["🔌 Shore Power<br/>230 V AC"]
+    SPI[Shore-power inlet]
+    GI[Galvanic isolator]
+    ACB[Main AC breaker]
+    SKT[230 V sockets]
+    WH[Water heater<br/>calorifier]
+    AC[A/C unit<br/>if fitted]
+    BC[Battery charger]
+
+    ALT["⚙️ Engine alternator<br/>12 V"]
+    SOL["☀️ Solar panel<br/>if fitted"]
+
+    SVC[("🔋 Service bank<br/>12 V / ~400 Ah")]
+    STB[("🔋 Start battery<br/>12 V")]
+    PNL[Main 12 V panel]
+
+    NAV[Nav lights]
+    INS[Instruments &<br/>plotters]
+    LT[Cabin lights]
+    FRG["Fridge 🧊"]
+    PMP[Pumps<br/>water, bilge]
+    WIN[Windlass*]
+
+    SP --> SPI --> GI --> ACB
+    ACB --> SKT
+    ACB --> WH
+    ACB --> AC
+    ACB --> BC
+    BC --> SVC
+    ALT --> SVC
+    ALT --> STB
+    SOL --> SVC
+    SVC --> PNL
+    PNL --> NAV
+    PNL --> INS
+    PNL --> LT
+    PNL --> FRG
+    PNL --> PMP
+    PNL --> WIN
+
+    classDef ac fill:#ffeaa7,stroke:#b58900,color:#333
+    classDef dc fill:#d4e8f0,stroke:#2980b9,color:#333
+    classDef bat fill:#fab1a0,stroke:#c0392b,color:#333
+    class SP,SPI,GI,ACB,SKT,WH,AC,BC ac
+    class SVC,STB bat
+    class PNL,NAV,INS,LT,FRG,PMP,WIN,ALT,SOL dc
