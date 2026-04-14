@@ -142,7 +142,7 @@ The Bavaria Cruiser 45 (designed by Farr Yacht Design, built in Giebelstadt, Ger
 
 ## 2. Deck Layout & Rigging
 
-![Bavaria C45 deck layout — bird's-eye view](diagrams/deck-layout.png)
+![Bavaria C45 deck layout — bird's-eye view](https://raw.githubusercontent.com/bodino/ionianseaguide2026/main/diagrams/deck-layout.png)
 
 ### Standing Rigging (the wires that hold the mast up)
 
@@ -216,7 +216,7 @@ Simpler. Works from any point of sail, though easier when not heavily loaded.
 
 ### Points of Sail — Quick Reference
 
-![Points of sail — sectors relative to true wind](diagrams/points-of-sail.png)
+![Points of sail — sectors relative to true wind](https://raw.githubusercontent.com/bodino/ionianseaguide2026/main/diagrams/points-of-sail.png)
 
 - Close-hauled = ~30–45° off the wind. Boat heels most. Flattest sails, vang on, genoa cars aft.
 - Beam reach = wind on the beam (90°). Fastest point of sail, most comfortable.
@@ -238,7 +238,7 @@ A 4-cylinder naturally-aspirated marine diesel. Reliable, simple, parts everywhe
 
 **Pre-start checks (every single day):**
 
-![Daily engine pre-start checks](diagrams/engine-checks.png)
+![Daily engine pre-start checks](https://raw.githubusercontent.com/bodino/ionianseaguide2026/main/diagrams/engine-checks.png)
 
 **Starting procedure:**
 
@@ -297,7 +297,7 @@ The leg through the hull. Maintenance concerns:
 
 The C45 runs on a 12 V DC system from a battery bank, plus 230 V AC when plugged in shore-side.
 
-![12 V / 230 V electrical architecture](diagrams/electrical.png)
+![12 V / 230 V electrical architecture](https://raw.githubusercontent.com/bodino/ionianseaguide2026/main/diagrams/electrical.png)
 
 *Windlass runs through its own solenoid — huge current draw, direct from the service bank via the battery switch.*
 
@@ -391,7 +391,7 @@ The Ionian will test three specific manoeuvres more than anything else:
 
 This is how you dock in Greece 90% of the time. Boats line up like books on a shelf, stern to the quay, anchor dropped ahead.
 
-![Med mooring stern-to — 3-step approach](diagrams/med-mooring.png)
+![Med mooring stern-to — 3-step approach](https://raw.githubusercontent.com/bodino/ionianseaguide2026/main/diagrams/med-mooring.png)
 
 **Step-by-step:**
 
@@ -450,7 +450,7 @@ Cons: side-on to any swell — uncomfortable if the wind shifts.
 
 ### Geography
 
-![Ionian sailing area & your 7-day route](diagrams/ionian-route.png)
+![Ionian sailing area & your 7-day route](https://raw.githubusercontent.com/bodino/ionianseaguide2026/main/diagrams/ionian-route.png)
 
 - **Lefkada** is the northernmost of the Ionian charter bases. Just south of the canal you're already in sheltered waters.
 - The core charter cruising ground is the **Inner Ionian Sea** — the water between Lefkada, the mainland, Meganisi, Kalamos, Kastos, and Ithaca. Short hops (10–25 nm), many anchorages.
